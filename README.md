@@ -8,7 +8,7 @@ If you ever want to copy files inside working container or to/from container to 
 
 	Before first use:  chmod u+x mcd.sh
 
-	Normal usage:      ./mcd.sh CONTAINER_NAME
+	Normal usage:      ./mcd.sh YOUR_CONTAINER_NAME
 
 	Example:           ./mcd.sh nginx
 
