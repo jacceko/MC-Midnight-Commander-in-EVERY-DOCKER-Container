@@ -1,6 +1,6 @@
 **Midnight-Commander-in-EVERY-DOCKER-Container**
 
-Script in bash for Auto exec/install Midnight Commander in your apps dockers containers - Every containers based on debian/alpine/centos/ubi/ubuntu)
+Script in bash for Auto exec/install Midnight Commander in your apps dockers containers - it work in Every containers based on debian/alpine/centos/ubi/ubuntu)
 
 If you ever want to copy files inside working container or to/from container to host in easy way, you may want to have mc in every container.
 
