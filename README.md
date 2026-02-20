@@ -10,6 +10,8 @@ If you ever want to copy files inside working container or to/from container to 
 
 	Normal usage: ./mcd.sh CONTAINER_NAME
 
+	Example:      ./mcd.sh nginx
+
  
 **HOW IT WORK:**
 
