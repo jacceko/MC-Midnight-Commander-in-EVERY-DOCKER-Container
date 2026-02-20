@@ -2,8 +2,8 @@
 
 Script for Auto exec/install Midnight Commander in your apps dockers containers - Every containers based on debian/alpine/centos/ubi/ubuntu)
 
-This script EXECUTE MC IN CONTAINER IF MC NOT EXIST, MC WILL BE INSTALLED DEPEND ON SYSTEM DEBIAN/UBI/ALPINE/CENTOS/UBUNTU AND THEN EXECUTE MC
+This script execute mc in container if mc not exist, mc will be installed depend on system debian/ubi/alpine/centos/ubuntu and then execute mc
 
-IF ALL WORK OK - YOU WILL SEE MC BLUE SCREEN AND ON BOTTOM YOU SEE root@docker-XXXXX some number - THIS MEAN YOUR MC ARE IN DOCKER
+If all work ok - you will see mc blue screen and on bottom you see root@docker-xxxxx some number - this mean your mc are in docker
 
-TO COPY FILES FROM TO OUTSIDE DOCKER IN DOCKER YOU CAN ADD VOLUME NAME FOR EX. "/exchange" - MAPPED TO YOUR HOST SYSTEM LOCAL FOLDER
+To copy files from to outside docker in docker you can add volume name for ex. "/exchange" - mapped to your host system local folder
